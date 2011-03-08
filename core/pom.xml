@@ -14,9 +14,8 @@
 	<description>Application Core Framework</description>
 	<modules>
 		<module>common</module>
-		<module>dao</module>
 		<module>infra</module>
-		<module>manager</module>
+		<module>repository</module>
 		<module>model</module>
 		<module>service</module>
 	</modules>
